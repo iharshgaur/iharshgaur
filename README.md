@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Gaur</h1>
 <h3 align="center"  > <em>🌈 "I am a full stack web developer
-and web browser is my canvas" 🎨</em></h3>
+and Chrome is my canvas" 🎨</em></h3>
 <br>
 <p align="left"> <a href="https://twitter.com/the_quantum_bit" target="blank"><img src="https://img.shields.io/twitter/follow/the_quantum_bit?logo=twitter&style=for-the-badge" alt="the_quantum_bit" /></a> </p>
 
