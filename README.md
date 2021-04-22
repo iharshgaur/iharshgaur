@@ -1,49 +1,73 @@
-<h1 align="center">Hi 👋, I'm Harsh Gaur</h1>
-<h3 align="center"  > <em>🌈 "I am a full stack web developer
-and Chrome is my canvas" 🎨</em></h3>
-<br>
-<p align="left"> <a href="https://twitter.com/the_quantum_bit" target="blank"><img src="https://img.shields.io/twitter/follow/the_quantum_bit?logo=twitter&style=for-the-badge" alt="the_quantum_bit" /></a> </p>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+  <path fill="#853FFF" fill-opacity="1" d="M0,128L40,122.7C80,117,160,107,240,96C320,85,400,75,480,85.3C560,96,640,128,720,149.3C800,171,880,181,960,181.3C1040,181,1120,171,1200,149.3C1280,128,1360,96,1400,80L1440,64L1440,0L1400,0C1360,0,1280,0,1200,0C1120,0,1040,0,960,0C880,0,800,0,720,0C640,0,560,0,480,0C400,0,320,0,240,0C160,0,80,0,40,0L0,0Z"></path>
+</svg>
 
-- 🌱 I’m currently learning **Full-stack Web Development**
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 👨‍💻 All of my projects are available at [https://harshgaur.codes/](https://harshgaur.codes/)
+I love coding in Python :snake:. I work at [Estylo](https://estylo.in/) as a Python Developer and occassionally participate in hackathons.
 
-- 📝 I regulary write articles on [https://medium.com/@harshgaur997](https://medium.com/@harshgaur997)
+</br>
+</br>
 
-- 💬 Ask me about **Python, Data structures, Algorithms and Web development**
+⚡ Little bit more about me:
 
-- 📫 How to reach me **harshgaur997@gmail.com**
+- 👯 I’m actively looking for oppotunities in full stack web development.
+- 🌱 I’m currently learning and building projects using MERN stack.
+- :pencil2: I Write blogs on [dev.to](https://dev.to/iharshgaur) on free days.
+- :musical_note: I love to hear country music.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/harsh-gaur-099849142/](https://www.linkedin.com/in/harsh-gaur-099849142/)
+</br>
+</br>
 
-- ⚡ Fun fact **Coding was not my first choice but now I am loving it.**
+### 🛠 &nbsp;Tech Stack
 
-### Blogs posts
+![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+<br />
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+<br />
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+<br />
+<br/>
 
-- https://medium.com/@harshgaur997
-- https://dev.to/iharshgaur
+## &#x1f4c8; GitHub Stats
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/harsh-gaur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="harsh-gaur" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/iharshgaur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/iharshgaur" height="30" width="40" /></a>
-<a href="https://twitter.com/the_quantum_bit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="the_quantum_bit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-gaur-099849142/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/harsh-gaur-099849142/" height="30" width="40" /></a>
-<a href="https://instagram.com/the_quantum_bit/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="the_quantum_bit/" height="30" width="40" /></a>
-<a href="https://medium.com/@harshgaur997" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@harshgaur997" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucgdna950gow2hbbq9iczfuw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucgdna950gow2hbbq9iczfuw" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harshgaur997" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshgaur997" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/harshgaur997" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="harshgaur997" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshgaur997" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="harshgaur997" height="30" width="40" /></a>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iharshgaur&show_icons=true&locale=en&layout=compact&theme=radical" alt="harshgaur" /></p>
+
+<br/>
+<br/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iharshgaur&theme=radical" alt="harshgaur" /></p>
+ 
+ <br />
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iharshgaur&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+
+<br/>
+<br/>
+
+### Let's Connect :coffee:
+
+<p align="center">
+	<a href="https://github.com/iharshgaur">
+   <img src="https://img.icons8.com/nolan/50/github.png"/></a>
+	<a href="https://www.linkedin.com/in/harshgaur97/">
+<img src="https://im
+g.icons8.com/nolan/50/linkedin.png"/></a>
+	<a href="https://harshgaur.tech/">
+   <img src="https://img.icons8.com/nolan/50/domain.png"/></a>
+	<a href="https://medium.com/@harshgaur997">
+    <img src="https://img.icons8.com/nolan/50/medium-new.png"/></a>
+	<a href="https://leetcode.com/harshgaur997/">
+    <img src="https://img.icons8.com/nolan/50/code.png"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<ul> 
-    <li> REACT </li>
-    <li> HTML </li>
-    <li> CSS </li>
-    <li> JAVASCRIPT </li>
-    <li> PYTHON </li>
-    <li> NODE JS </li>
-    <li> MONGO DB </li>
-</ul>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+  <path fill="#853FFF" fill-opacity="1" d="M0,128L40,122.7C80,117,160,107,240,96C320,85,400,75,480,85.3C560,96,640,128,720,149.3C800,171,880,181,960,181.3C1040,181,1120,171,1200,149.3C1280,128,1360,96,1400,80L1440,64L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"></path>
+</svg>
