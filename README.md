@@ -39,7 +39,7 @@ I am Harsh Gaur and I am an aspiring full stack developer. I am currnetly learni
 
  <br />
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iharshgaur&bg_color=0D1117&color=C225FF&line=1655C1&point=D93A7C&area=true&hide_border=false)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iharshgaur&bg_color=0D1117&color=853FFF&line=1655C1&point=D93A7C&area=true&hide_border=true)
 
 <br/>
 <br/>
