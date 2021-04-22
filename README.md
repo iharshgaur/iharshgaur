@@ -48,7 +48,7 @@ I am Harsh Gaur and I am an aspiring full stack developer. I am currnetly learni
 <br/>
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iharshgaur&theme=radical" alt="harshgaur" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iharshgaur&theme=radical" alt="harshgaur" /></p>
  
  <br />
 
