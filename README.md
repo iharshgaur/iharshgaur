@@ -1,6 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-  <path fill="#853FFF" fill-opacity="1" d="M0,128L40,122.7C80,117,160,107,240,96C320,85,400,75,480,85.3C560,96,640,128,720,149.3C800,171,880,181,960,181.3C1040,181,1120,171,1200,149.3C1280,128,1360,96,1400,80L1440,64L1440,0L1400,0C1360,0,1280,0,1200,0C1120,0,1040,0,960,0C880,0,800,0,720,0C640,0,560,0,480,0C400,0,320,0,240,0C160,0,80,0,40,0L0,0Z"></path>
-</svg>
+![top](https://svgshare.com/i/WU0.svg)
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -43,11 +41,7 @@ I am Harsh Gaur and I am an aspiring full stack developer. I am currnetly learni
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="center">
-
 ![Harsh Gaur's GitHub stats](https://github-readme-stats.vercel.app/api?username=iharshgaur&show_icons=true&theme=radical)
-
-</p>
 
  <br />
 
@@ -71,6 +65,4 @@ I am Harsh Gaur and I am an aspiring full stack developer. I am currnetly learni
     <img src="https://img.icons8.com/nolan/50/code.png"/></a>
 </p>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-  <path fill="#853FFF" fill-opacity="1" d="M0,128L40,122.7C80,117,160,107,240,96C320,85,400,75,480,85.3C560,96,640,128,720,149.3C800,171,880,181,960,181.3C1040,181,1120,171,1200,149.3C1280,128,1360,96,1400,80L1440,64L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"></path>
-</svg>
+![bottom](https://svgshare.com/i/WUW.svg)
