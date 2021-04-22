@@ -63,8 +63,7 @@ I am Harsh Gaur and I am an aspiring full stack developer. I am currnetly learni
 	<a href="https://github.com/iharshgaur">
    <img src="https://img.icons8.com/nolan/50/github.png"/></a>
 	<a href="https://www.linkedin.com/in/harshgaur97/">
-<img src="https://im
-g.icons8.com/nolan/50/linkedin.png"/></a>
+<img src="https://img.icons8.com/nolan/50/linkedin.png"/></a>
 	<a href="https://harshgaur.tech/">
    <img src="https://img.icons8.com/nolan/50/domain.png"/></a>
 	<a href="https://medium.com/@harshgaur997">
