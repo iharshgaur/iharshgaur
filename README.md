@@ -4,8 +4,7 @@
 
 I am Harsh Gaur and I am an aspiring full stack developer. I am currnetly learning full stack web development at [masai school](https://www.masaischool.com/). I love to build web apps using React and solve problems on data structures and algorithms.
 
-</br>
-</br>
+
 
 ⚡ Little bit more about me:
 
@@ -14,8 +13,7 @@ I am Harsh Gaur and I am an aspiring full stack developer. I am currnetly learni
 - :pencil2: I Write blogs on [dev.to](https://dev.to/iharshgaur) on free days.
 - :musical_note: I love to hear country music.
 
-</br>
-</br>
+
 
 ### 🛠 &nbsp;Tech Stack
 
