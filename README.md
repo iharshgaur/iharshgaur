@@ -11,7 +11,6 @@
 - 👯 I’m actively looking for oppotunities in full stack web development.
 - 🌱 I’m currently learning and building projects using MERN stack.
 - :pencil2: I Write blogs on [dev.to](https://dev.to/iharshgaur) on free days.
-- :musical_note: I love to hear country music.
 
 <br/>
 
