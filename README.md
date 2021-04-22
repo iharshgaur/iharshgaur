@@ -43,7 +43,11 @@ I am Harsh Gaur and I am an aspiring full stack developer. I am currnetly learni
 
 ## &#x1f4c8; GitHub Stats
 
+<p align="center">
+
 ![Harsh Gaur's GitHub stats](https://github-readme-stats.vercel.app/api?username=iharshgaur&show_icons=true&theme=radical)
+
+</p>
 
  <br />
 
