@@ -1,4 +1,4 @@
-![top](https://svgshare.com/i/WU0.svg)
+![top](https://svgshare.com/i/WVU.svg)
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -65,4 +65,4 @@ I am Harsh Gaur and I am an aspiring full stack developer. I am currnetly learni
     <img src="https://img.icons8.com/nolan/50/code.png"/></a>
 </p>
 
-![bottom](https://svgshare.com/i/WUW.svg)
+![bottom](https://svgshare.com/i/WVa.svg)
