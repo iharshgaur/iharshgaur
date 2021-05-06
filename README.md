@@ -62,4 +62,4 @@ I am Harsh Gaur and I am an aspiring full stack developer residing in New Delhi,
     <img src="https://img.icons8.com/nolan/50/code.png"/></a>
 </p>
 
-![bottom](https://svgshare.com/i/WVV.svg)
+![bottom](https://imgur.com/7eZjPnF)
