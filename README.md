@@ -2,7 +2,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am Harsh Gaur and I am an aspiring full stack developer residing in New Delhi, India. I am currently learning full stack web development at [masai school](https://www.masaischool.com/). I love to build web apps using React and solve problems on data structures and algorithms.
+I am Harsh Gaur and I am an aspiring full stack developer residing in New Delhi, India. I am currently working as a backend engineer at [Eatfit.in](https://www.eatfit.in/)
 
 <br/>
 
